@@ -82,11 +82,3 @@ usman-rizwan-159965290
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<br >
-<br >
-<br >
-
-[![An image of @usmanrizwan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/usmanrizwan)](https://holopin.io/@usmanrizwan)
-
----
-[![](https://visitcount.itsvg.in/api?id=usman-rizwan&icon=0&color=3)](https://visitcount.itsvg.in)
